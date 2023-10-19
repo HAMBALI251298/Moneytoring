@@ -1,3 +1,9 @@
+## Hi, I'm HAMBALI 👋
+<img src="hambali.png">
+
+## APLIKASI INI DIBUAT OLEH HAMBALI
+
+
 # Moneytoring
 ## Aplikasi Pencatatan Transaksi e-wallet atau mobile banking otomatis melalui Notifikasi
 
@@ -16,7 +22,7 @@ Untuk saat ini Aplikasi Moneytoring masih sangat terbatas, sehingga hanya suppor
 - PERMATA BANK to DANA
 - BRI to BRIVA
 
-## APLIKASI INI DIBUAT OLEH HAMBALI
+## HAMBALI
 
 | Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
