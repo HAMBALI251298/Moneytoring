@@ -16,7 +16,7 @@ Untuk saat ini Aplikasi Moneytoring masih sangat terbatas, sehingga hanya suppor
 - PERMATA BANK to DANA
 - BRI to BRIVA
 
-##APLIKASI INI DIBUAT OLEH HAMBALI
+## APLIKASI INI DIBUAT OLEH HAMBALI
 
 | Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
